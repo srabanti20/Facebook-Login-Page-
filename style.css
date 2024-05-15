@@ -6,39 +6,39 @@ h1{
     color: blue;
 }
 button{
-    background-color: rgb (15, 15, 233);
+    background-color: rgb(15, 15, 233);
     color: white;
     border: none;
-    border-radius: 5 px;
-    height: 30 px;
-    width: 285 px;
+    border-radius: 5px;
+    height: 30px;
+    width: 285px;
 }
 #acc{
-    background-color: rgb (9, 171, 9);
-    border-radius: 0 px;
-    height: 30 px;
-    width: 150 px;
+    background-color: rgb(9, 171, 9);
+    border-radius: 0px;
+    height: 30px;
+    width: 150px;
 }
 #mobile{
-    background-color:rgb (255, 239, 232);
+    background-color:rgb(255, 239, 232);
     border: none;
-    border-radius: 5 px;
-    height: 30 px;
-   width: 285 px;
+    border-radius: 5px;
+    height: 30px;
+   width: 285px;
 }
 #password{
-background-color:rgb (255, 239, 232);
+background-color:rgb(255, 239, 232);
     border: none;
-    border-radius: 5 px;
-    height: 30 px;
-    width: 285 px;
+    border-radius: 5px;
+    height: 30px;
+    width: 285px;
 }
 .b{
     text-decoration: none;
     color: black;
 }
 #c{
-    color: rgb (84, 82, 82);
+    color: rgb(84, 82, 82);
 }
 #g{
      Color: blue;
