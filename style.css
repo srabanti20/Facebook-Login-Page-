@@ -1,0 +1,45 @@
+*{
+    font-family: Verdana;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+button{
+    background-color: rgb (15, 15, 233);
+    color: white;
+    border: none;
+    border-radius: 5 px;
+    height: 30 px;
+    width: 285 px;
+}
+#acc{
+    background-color: rgb (9, 171, 9);
+    border-radius: 0 px;
+    height: 30 px;
+    width: 150 px;
+}
+#mobile{
+    background-color:rgb (255, 239, 232);
+    border: none;
+    border-radius: 5 px;
+    height: 30 px;
+   width: 285 px;
+}
+#password{
+background-color:rgb (255, 239, 232);
+    border: none;
+    border-radius: 5 px;
+    height: 30 px;
+    width: 285 px;
+}
+.b{
+    text-decoration: none;
+    color: black;
+}
+#c{
+    color: rgb (84, 82, 82);
+}
+#g{
+     Color: blue;
+}
