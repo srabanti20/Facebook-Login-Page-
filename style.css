@@ -20,14 +20,14 @@ button{
     width: 150px;
 }
 #mobile{
-    background-color:rgb(255, 239, 232);
+    background-color: rgb(255, 239, 232);
     border: none;
     border-radius: 5px;
     height: 30px;
-   width: 285px;
+    width: 285px;
 }
 #password{
-background-color:rgb(255, 239, 232);
+    background-color:rgb(255, 239, 232);
     border: none;
     border-radius: 5px;
     height: 30px;
